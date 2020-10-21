@@ -1,2 +1,2 @@
 # Ruby
-Repositório com códigos em Ruby
+Repositório com códigos em Linguagem Ruby
